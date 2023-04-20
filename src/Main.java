@@ -10,8 +10,7 @@ import java.io.IOException;
  * Selection Sort - https://www.geeksforgeeks.org/selection-sort/
  * Merge Sort - ChatGPT
  * Quick Sort - ChatGPT
- * THIS IS GONNA CREATE A MERGE CONFLICT ON WHAT YOU WERE WORKING
- * NO NEED TO PANIC THIS IS NORMAL
+ * lalala
  * */
 
 class Main {
